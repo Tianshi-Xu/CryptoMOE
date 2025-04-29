@@ -1,0 +1,7 @@
+[2025-04-29 02:13:31.761] [info] [thread_pool.cc:30] Create a fixed thread pool with size 191
+[2025-04-29 02:13:32.006] [info] [thread_pool.cc:30] Create a fixed thread pool with size 191
+[2025-04-29 02:13:36.195] [info] [cheetah_dot.cc:310] CheetahDot uses 3@2 modulus 8192 degree for 64 bit ring (packing=enabled)
+[2025-04-29 02:13:36.938] [info] [cheetah_dot.cc:475] 1@1024x128x64 => 1x128x64 Recv 0.176 MiB, Response 1.941 MiB Pack 442.503 ms (interleave)
+[2025-04-29 02:13:37.004] [info] [cheetah_dot.cc:475] 1@1024x128x64 => 1x128x64 Recv 0.176 MiB, Response 1.941 MiB Pack 462.319 ms (interleave)
+[2025-04-29 02:13:44.455] [info] [cheetah_mul.cc:335] CheetahMul uses 4 modulus for 64 bit input over 64 bit ring
+[2025-04-29 02:13:44.463] [info] [cheetah_mul.cc:335] CheetahMul uses 4 modulus for 64 bit input over 64 bit ring
