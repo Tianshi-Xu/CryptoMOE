@@ -1,0 +1,136 @@
+[2025-05-03 08:25:19.414] [info] [thread_pool.cc:30] Create a fixed thread pool with size 191
+[2025-05-03 08:25:19.531] [info] [thread_pool.cc:30] Create a fixed thread pool with size 191
+[2025-05-03 08:25:22.272] [info] [cheetah_mul.cc:335] CheetahMul uses 4 modulus for 64 bit input over 64 bit ring
+[2025-05-03 08:25:22.274] [info] [cheetah_mul.cc:335] CheetahMul uses 4 modulus for 64 bit input over 64 bit ring
+[2025-05-03 08:25:33.850] [info] [cheetah_dot.cc:310] CheetahDot uses 3@2 modulus 8192 degree for 64 bit ring (packing=enabled)
+[2025-05-03 08:25:47.762] [info] [cheetah_dot.cc:475] 1@128x2048x6144 => 128x64x1 Recv 5.645 MiB, Response 23.287 MiB Pack 3496.544 ms (interleave)
+[2025-05-03 08:25:47.843] [info] [cheetah_dot.cc:475] 1@128x2048x6144 => 128x64x1 Recv 5.645 MiB, Response 23.287 MiB Pack 3576.632 ms (interleave)
+[2025-05-03 08:25:48.635] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 58.877 ms (interleave)
+[2025-05-03 08:25:48.645] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 71.375 ms (interleave)
+[2025-05-03 08:25:48.740] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 60.728 ms (interleave)
+[2025-05-03 08:25:48.758] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 72.618 ms (interleave)
+[2025-05-03 08:25:48.855] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 56.597 ms (interleave)
+[2025-05-03 08:25:48.859] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 60.475 ms (interleave)
+[2025-05-03 08:25:48.954] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 60.195 ms (interleave)
+[2025-05-03 08:25:48.963] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 66.305 ms (interleave)
+[2025-05-03 08:25:49.067] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 64.567 ms (interleave)
+[2025-05-03 08:25:49.068] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 63.146 ms (interleave)
+[2025-05-03 08:25:49.170] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 65.467 ms (interleave)
+[2025-05-03 08:25:49.179] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 70.631 ms (interleave)
+[2025-05-03 08:25:49.283] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 66.281 ms (interleave)
+[2025-05-03 08:25:49.287] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 69.763 ms (interleave)
+[2025-05-03 08:25:49.392] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 62.122 ms (interleave)
+[2025-05-03 08:25:49.398] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 67.898 ms (interleave)
+[2025-05-03 08:25:49.503] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 67.648 ms (interleave)
+[2025-05-03 08:25:49.515] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 77.873 ms (interleave)
+[2025-05-03 08:25:49.621] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 68.811 ms (interleave)
+[2025-05-03 08:25:49.621] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 64.669 ms (interleave)
+[2025-05-03 08:25:49.725] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 63.717 ms (interleave)
+[2025-05-03 08:25:49.729] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 63.693 ms (interleave)
+[2025-05-03 08:25:49.829] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 65.306 ms (interleave)
+[2025-05-03 08:25:49.831] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 63.156 ms (interleave)
+[2025-05-03 08:25:49.933] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 64.866 ms (interleave)
+[2025-05-03 08:25:49.942] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 70.581 ms (interleave)
+[2025-05-03 08:25:50.045] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 68.416 ms (interleave)
+[2025-05-03 08:25:50.047] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 65.88 ms (interleave)
+[2025-05-03 08:25:50.151] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 67.979 ms (interleave)
+[2025-05-03 08:25:50.159] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 73.498 ms (interleave)
+[2025-05-03 08:25:50.262] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 65.016 ms (interleave)
+[2025-05-03 08:25:50.266] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 64.725 ms (interleave)
+[2025-05-03 08:25:58.546] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 61.097 ms (interleave)
+[2025-05-03 08:25:58.551] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 68.046 ms (interleave)
+[2025-05-03 08:25:58.641] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 60.06 ms (interleave)
+[2025-05-03 08:25:58.646] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 61.721 ms (interleave)
+[2025-05-03 08:25:58.749] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 66.756 ms (interleave)
+[2025-05-03 08:25:58.754] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 68.775 ms (interleave)
+[2025-05-03 08:25:58.851] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 63.521 ms (interleave)
+[2025-05-03 08:25:58.863] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 69.332 ms (interleave)
+[2025-05-03 08:25:58.963] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 61.866 ms (interleave)
+[2025-05-03 08:25:58.965] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 65.689 ms (interleave)
+[2025-05-03 08:25:59.062] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 66.534 ms (interleave)
+[2025-05-03 08:25:59.069] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 68.027 ms (interleave)
+[2025-05-03 08:25:59.171] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 70.313 ms (interleave)
+[2025-05-03 08:25:59.172] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 66.671 ms (interleave)
+[2025-05-03 08:25:59.270] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 61.809 ms (interleave)
+[2025-05-03 08:25:59.279] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 66.333 ms (interleave)
+[2025-05-03 08:25:59.375] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 57.584 ms (interleave)
+[2025-05-03 08:25:59.375] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 61.27 ms (interleave)
+[2025-05-03 08:25:59.473] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 63.196 ms (interleave)
+[2025-05-03 08:25:59.479] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 64.014 ms (interleave)
+[2025-05-03 08:25:59.585] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 65.271 ms (interleave)
+[2025-05-03 08:25:59.592] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 66.866 ms (interleave)
+[2025-05-03 08:25:59.697] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 67.609 ms (interleave)
+[2025-05-03 08:25:59.697] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 65.043 ms (interleave)
+[2025-05-03 08:25:59.794] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 63.187 ms (interleave)
+[2025-05-03 08:25:59.803] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 67.727 ms (interleave)
+[2025-05-03 08:25:59.899] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 64.528 ms (interleave)
+[2025-05-03 08:25:59.918] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 75.85 ms (interleave)
+[2025-05-03 08:26:00.014] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 61.889 ms (interleave)
+[2025-05-03 08:26:00.042] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 79.436 ms (interleave)
+[2025-05-03 08:26:00.141] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 61.505 ms (interleave)
+[2025-05-03 08:26:00.146] [info] [cheetah_dot.cc:475] 1@128x128x128 => 128x64x1 Recv 0.353 MiB, Response 0.485 MiB Pack 67.828 ms (interleave)
+[2025-05-03 08:26:03.343] [info] [cheetah_dot.cc:475] 1@128x2048x2048 => 128x64x1 Recv 5.645 MiB, Response 7.762 MiB Pack 1455.281 ms (interleave)
+[2025-05-03 08:26:03.705] [info] [cheetah_dot.cc:475] 1@128x2048x2048 => 128x64x1 Recv 5.645 MiB, Response 7.762 MiB Pack 1183.205 ms (interleave)
+[2025-05-03 08:26:05.040] [info] [api.cc:172] [Profiling] SPU execution attention completed, input processing took 3.478e-06s, execution took 42.808698896s, output processing took 6.227e-06s, total time 42.808708601s.
+[2025-05-03 08:26:05.040] [info] [api.cc:220] HLO profiling: total time 42.80682157399999
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.dot, executed 2 times, duration 18.814540996s, send bytes 57255799 recv bytes 54241768, send actions 290, recv actions 290
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.multiply, executed 7 times, duration 12.21688619s, send bytes 182461604 recv bytes 165921202, send actions 107283, recv actions 45795
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.reduce, executed 4 times, duration 4.133750397s, send bytes 20095800 recv bytes 18044981, send actions 2220, recv actions 62427
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.dot_general, executed 2 times, duration 3.534997732s, send bytes 29689988 recv bytes 28182112, send actions 384, recv actions 384
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.exponential, executed 1 times, duration 3.065684025s, send bytes 152974694 recv bytes 146716546, send actions 1456, recv actions 1456
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.rsqrt, executed 2 times, duration 0.580320586s, send bytes 696615 recv bytes 1010197, send actions 82, recv actions 1363
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.reciprocal, executed 1 times, duration 0.405567008s, send bytes 3472395 recv bytes 3432991, send actions 87, recv actions 87
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.less, executed 1 times, duration 0.040041256s, send bytes 141568 recv bytes 26880, send actions 18, recv actions 18
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.negate, executed 1 times, duration 0.004556914s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.select, executed 1 times, duration 0.003249237s, send bytes 16640 recv bytes 16640, send actions 2, recv actions 2
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.free, executed 43 times, duration 0.002476999s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.add, executed 1 times, duration 0.002457074s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.reshape, executed 4 times, duration 0.001845519s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.convert, executed 2 times, duration 0.000258878s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.constant, executed 4 times, duration 5.638e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.transpose, executed 4 times, duration 5.4569e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.slice, executed 3 times, duration 4.0277e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - pphlo.broadcast, executed 4 times, duration 3.7537e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.040] [info] [api.cc:220] HAL profiling: total time 42.790858741
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - f_mmul, executed 34 times, duration 22.340010299s, send bytes 86945787 recv bytes 82423880, send actions 674, recv actions 674
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - f_mul, executed 7 times, duration 12.216569426s, send bytes 182461604 recv bytes 165921202, send actions 107283, recv actions 45795
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - f_less, executed 8 times, duration 3.953917149s, send bytes 18123576 recv bytes 15958069, send actions 2016, recv actions 62223
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - f_exp, executed 1 times, duration 3.065677058s, send bytes 152974694 recv bytes 146716546, send actions 1456, recv actions 1456
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - f_rsqrt, executed 2 times, duration 0.580304502s, send bytes 696615 recv bytes 1010197, send actions 82, recv actions 1363
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - f_reciprocal, executed 1 times, duration 0.405560241s, send bytes 3472395 recv bytes 3432991, send actions 87, recv actions 87
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - _mux, executed 8 times, duration 0.185483938s, send bytes 2130432 recv bytes 2130432, send actions 224, recv actions 224
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - f_add, executed 30 times, duration 0.03864642s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - f_negate, executed 1 times, duration 0.004553212s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - seal, executed 2 times, duration 0.000136496s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.040] [info] [api.cc:220] MPC profiling: total time 42.798746927
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - mmul_aa, executed 34 times, duration 21.571577126s, send bytes 82227291 recv bytes 82227016, send actions 322, recv actions 322
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - trunc_a, executed 66 times, duration 10.977351293s, send bytes 50593600 recv bytes 23228784, send actions 107122, recv actions 45634
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - msb_a2b, executed 9 times, duration 4.010047208s, send bytes 18265144 recv bytes 15984949, send actions 2034, recv actions 62241
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - mul_aa, executed 22 times, duration 2.722536588s, send bytes 145434450 recv bytes 146017277, send actions 994, recv actions 994
+[2025-05-03 08:26:05.040] [info] [api.cc:223] - square_s, executed 9 times, duration 2.557324357s, send bytes 146921738 recv bytes 147063240, send actions 1028, recv actions 1028
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - a2b, executed 3 times, duration 0.595752852s, send bytes 479232 recv bytes 745491, send actions 54, recv actions 1335
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - mul_a1b, executed 8 times, duration 0.158357519s, send bytes 2130432 recv bytes 2130432, send actions 224, recv actions 224
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - and_bb, executed 18 times, duration 0.084985671s, send bytes 184896 recv bytes 184896, send actions 36, recv actions 36
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - add_aa, executed 61 times, duration 0.063176105s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - b2a, executed 8 times, duration 0.022748408s, send bytes 568320 recv bytes 11232, send actions 8, recv actions 8
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - negate_a, executed 22 times, duration 0.020803749s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - concatenate, executed 2 times, duration 0.008185559s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - reshape, executed 116 times, duration 0.002173494s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - add_ap, executed 16 times, duration 0.001130165s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - extract_slice, executed 139 times, duration 0.000681532s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - xor_bb, executed 71 times, duration 0.000494809s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - bitrev_b, executed 5 times, duration 0.00043431s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - rshift_b, executed 43 times, duration 0.000258414s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - and_bp, executed 41 times, duration 0.000136202s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - p2a, executed 2 times, duration 0.000100964s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - negate_p, executed 8 times, duration 7.6056e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - make_p, executed 36 times, duration 7.5941e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - mul_ap, executed 13 times, duration 7.316e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - transpose, executed 8 times, duration 5.864e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - xor_bp, executed 3 times, duration 4.7241e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - add_pp, executed 7 times, duration 4.4308e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - broadcast, executed 6 times, duration 3.7351e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - lshift_b, executed 12 times, duration 3.4978e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - lshift_p, executed 5 times, duration 3.4554e-05s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:223] - mul_pp, executed 2 times, duration 8.373e-06s, send bytes 0 recv bytes 0, send actions 0, recv actions 0
+[2025-05-03 08:26:05.042] [info] [api.cc:233] Link details: total send bytes 446805103, recv bytes 417593317, send actions 111822, recv actions 111822
